@@ -11,6 +11,7 @@ cd SWBio_dsml_individual_project
 ```
 
 **Install dependencies**
+The libraries used in this project are pandas seaborn scikit-learn numpy 
 ```python
 uv sync
 ```
@@ -20,8 +21,3 @@ uv sync
 uv run jupyter lab
 ```
 
-```python
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-```
