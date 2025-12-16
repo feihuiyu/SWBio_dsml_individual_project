@@ -29,4 +29,4 @@ uv sync
 uv run jupyter lab
 ```
 
-![pic1]<https://github.com/feihuiyu/SWBio_dsml_individual_project/blob/main/pca2d.png>
+![pic1]（https://github.com/feihuiyu/SWBio_dsml_individual_project/blob/main/pca2d.png）
