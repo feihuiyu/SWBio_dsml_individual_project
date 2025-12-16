@@ -15,6 +15,11 @@ cd SWBio_dsml_individual_project
 uv sync
 ```
 
+**Launch the code in Jupyter lab**
+```python
+uv run jupyter lab
+```
+
 ```python
 import pandas as pd
 import seaborn as sns
