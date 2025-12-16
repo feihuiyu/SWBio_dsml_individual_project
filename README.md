@@ -1,9 +1,12 @@
 # SWBio_dsml_individual_project
-Here are the data and code for the individual project of SWBio data science and machine learning teaching unit.
+This is the individual project of SWBio data science and machine learning teaching unit.
 
 ## Initial Setup
 This project uses uv for package management.
 
+Clone the repository and install the dependencies:
+```python
+git clone 
 ```python
 import pandas as pd
 import seaborn as sns
