@@ -125,3 +125,11 @@ PC1 shows high positive loadings of flipper length, body mass, and bill length, 
 ## Conclusion
 
 In this project, I performed a PCA on morphological features of three closely related Antarctic penguin species to identify the dimensions that maximize the variance. I found that with the first two PCs explaining over 87% of the variation, Adelie, Gentoo, and Chinstrap penguins can be largely separated. PC1 is associated with body size and shape of the bill, PC2 reflects the overall size of the bill. This can be applied as a preliminary way to identify penguin species when researching them under harsh environmental conditions.
+
+## References
+
+Chávez-Hoffmeister, M. (2020). Bill disparity and feeding strategies among fossil and modern penguins. Paleobiology, [online] 46(2), pp.176–192. <doi:https://doi.org/10.1017/pab.2020.10>.
+
+Gorman, K.B., Williams, T.D. and Fraser, W.R. (2014). Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis). PLoS ONE, 9(3), p.e90081. <doi:https://doi.org/10.1371/journal.pone.0090081>.
+
+Gorman, K.B., Williams, T.D. and Fraser, W.R. (2014) Palmer Penguins Dataset for EDA. Kaggle. Available at: <https://www.kaggle.com/ds/5489301> (Accessed: 11s December 2025). <https://doi.org/10.34740/KAGGLE/DS/5489301>
