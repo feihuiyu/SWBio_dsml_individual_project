@@ -102,11 +102,11 @@ The first two PCs explained over 88% of the variance in the data, the cumulative
 
 ![pic2](https://github.com/feihuiyu/SWBio_dsml_individual_project/blob/main/pca2d.png)
 
-This is the output of cell[10]. Each point on the plot refers to a penguin with color indicating its species. With the first 2 PCs, Gentoo penguins are clearly separated from the others. Adelie and Chinstrap penguins are roughly distinguished with a some overlaps.
+Above is the output of cell[10]. Each point on the plot refers to a penguin with color indicating its species. With the first 2 PCs, Gentoo penguins are clearly separated from the others. Adelie and Chinstrap penguins are roughly distinguished with a some overlaps.
 
 ![pic3](https://github.com/feihuiyu/SWBio_dsml_individual_project/blob/main/pca3d.png)
 
-This is the output of cell[9]. Each point on the 3D space refers to a penguin with color indicating its species. With three PCs, the three penguin species are well separated from each other.
+Above is the output of cell[9]. Each point on the 3D space refers to a penguin with color indicating its species. With three PCs, the three penguin species are well separated from each other.
 
 To balance the number of PCs and the amount of variation explained, I will keep PC1 and PC2 as proxies to distinguish the three penguin species.
 
